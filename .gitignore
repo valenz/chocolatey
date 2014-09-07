@@ -1,0 +1,14 @@
+# osx
+.DS_Store
+.apdisk
+._.apdisk
+
+# ide
+*.swp
+*~
+
+# misc
+README.html
+*.tgz
+logs/
+docs/
